@@ -1,50 +1,56 @@
 
 .Games {
     position: relative;
-    display: flex;
-    justify-content: center;
+    /* display: flex; */
+    /* justify-content: center; */
     padding-top: 20px;
     padding-bottom: 59px;
     min-height: 3970px;
     /* min-width: 910;; */
 }
 
-.Games-container {}
+.Games-header-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 79px;
+    padding-top: 100px;
 
-.Games-header-heading{
-    width: 222px;
-    margin-bottom: 59px;
+
     color: #FFFFFF;
     font-size: 64px;
     font-weight: bold;
 }
 
-.Games-store{}
+
+.Games-store-steps {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 400px);
+    column-gap: 137px;
+    align-items: center;
+    justify-content: center;
+}
 
 .step {
+    padding-top: 158px;
     max-width: 400px;
-
 }
 
 .step-img {
     width: 100%;
     height: auto;
     object-fit: cover;
+    border-radius: 100px;
 }
 
 .step-heading{
+    display: flex;
     margin-top: 30px;
-    width: 183px;
-    height: 30px;
     font-style: normal;
     font-weight: 600;
     font-size: 24px;
     line-height: 30px;
-    display: flex;
+    justify-content: center;
     align-items: center;
-    text-align: center;
     color: #FFFFFF;
-    flex: none;
-    order: 1;
-    flex-grow: 0;
 }
