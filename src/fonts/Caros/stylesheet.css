@@ -1,0 +1,204 @@
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftMedium-Italic.eot');
+    src: local('Caros Soft Medium Italic'), local('CarosSoftMedium-Italic'),
+        url('CarosSoftMedium-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftMedium-Italic.woff2') format('woff2'),
+        url('CarosSoftMedium-Italic.woff') format('woff'),
+        url('CarosSoftMedium-Italic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftThin.eot');
+    src: local('Caros Soft Thin'), local('CarosSoftThin'),
+        url('CarosSoftThin.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftThin.woff2') format('woff2'),
+        url('CarosSoftThin.woff') format('woff'),
+        url('CarosSoftThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftBlack.eot');
+    src: local('Caros Soft Black'), local('CarosSoftBlack'),
+        url('CarosSoftBlack.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftBlack.woff2') format('woff2'),
+        url('CarosSoftBlack.woff') format('woff'),
+        url('CarosSoftBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftExtraBold-Italic.eot');
+    src: local('Caros Soft ExtraBold Italic'), local('CarosSoftExtraBold-Italic'),
+        url('CarosSoftExtraBold-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftExtraBold-Italic.woff2') format('woff2'),
+        url('CarosSoftExtraBold-Italic.woff') format('woff'),
+        url('CarosSoftExtraBold-Italic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftExtraLight.eot');
+    src: local('Caros Soft ExtraLight'), local('CarosSoftExtraLight'),
+        url('CarosSoftExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftExtraLight.woff2') format('woff2'),
+        url('CarosSoftExtraLight.woff') format('woff'),
+        url('CarosSoftExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftExtraBold.eot');
+    src: local('Caros Soft ExtraBold'), local('CarosSoftExtraBold'),
+        url('CarosSoftExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftExtraBold.woff2') format('woff2'),
+        url('CarosSoftExtraBold.woff') format('woff'),
+        url('CarosSoftExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftBold-Italic.eot');
+    src: local('Caros Soft Bold Italic'), local('CarosSoftBold-Italic'),
+        url('CarosSoftBold-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftBold-Italic.woff2') format('woff2'),
+        url('CarosSoftBold-Italic.woff') format('woff'),
+        url('CarosSoftBold-Italic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftHeavy.eot');
+    src: local('Caros Soft Heavy'), local('CarosSoftHeavy'),
+        url('CarosSoftHeavy.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftHeavy.woff2') format('woff2'),
+        url('CarosSoftHeavy.woff') format('woff'),
+        url('CarosSoftHeavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoft-Italic.eot');
+    src: local('Caros Soft Italic'), local('CarosSoft-Italic'),
+        url('CarosSoft-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoft-Italic.woff2') format('woff2'),
+        url('CarosSoft-Italic.woff') format('woff'),
+        url('CarosSoft-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoft.eot');
+    src: local('Caros Soft'), local('CarosSoft'),
+        url('CarosSoft.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoft.woff2') format('woff2'),
+        url('CarosSoft.woff') format('woff'),
+        url('CarosSoft.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftExtraLight-Italic.eot');
+    src: local('Caros Soft ExtraLight Italic'), local('CarosSoftExtraLight-Italic'),
+        url('CarosSoftExtraLight-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftExtraLight-Italic.woff2') format('woff2'),
+        url('CarosSoftExtraLight-Italic.woff') format('woff'),
+        url('CarosSoftExtraLight-Italic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftBlack-Italic.eot');
+    src: local('Caros Soft Black Italic'), local('CarosSoftBlack-Italic'),
+        url('CarosSoftBlack-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftBlack-Italic.woff2') format('woff2'),
+        url('CarosSoftBlack-Italic.woff') format('woff'),
+        url('CarosSoftBlack-Italic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftLight.eot');
+    src: local('Caros Soft Light'), local('CarosSoftLight'),
+        url('CarosSoftLight.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftLight.woff2') format('woff2'),
+        url('CarosSoftLight.woff') format('woff'),
+        url('CarosSoftLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftHeavy-Italic.eot');
+    src: local('Caros Soft Heavy Italic'), local('CarosSoftHeavy-Italic'),
+        url('CarosSoftHeavy-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftHeavy-Italic.woff2') format('woff2'),
+        url('CarosSoftHeavy-Italic.woff') format('woff'),
+        url('CarosSoftHeavy-Italic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftMedium.eot');
+    src: local('Caros Soft Medium'), local('CarosSoftMedium'),
+        url('CarosSoftMedium.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftMedium.woff2') format('woff2'),
+        url('CarosSoftMedium.woff') format('woff'),
+        url('CarosSoftMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftBold.eot');
+    src: local('Caros Soft Bold'), local('CarosSoftBold'),
+        url('CarosSoftBold.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftBold.woff2') format('woff2'),
+        url('CarosSoftBold.woff') format('woff'),
+        url('CarosSoftBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caros Soft';
+    src: url('CarosSoftLight-Italic.eot');
+    src: local('Caros Soft Light Italic'), local('CarosSoftLight-Italic'),
+        url('CarosSoftLight-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CarosSoftLight-Italic.woff2') format('woff2'),
+        url('CarosSoftLight-Italic.woff') format('woff'),
+        url('CarosSoftLight-Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
