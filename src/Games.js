@@ -108,6 +108,21 @@ function Games() {
                 
                 </div>
 
+                <div className='Games-footer-content'>
+                    <h3 className='Games-footer-heading'>
+                        <span className='Games-footer-heading-we'>We </span>
+                        <span className='Games-footer-heading-make'>make  </span> 
+                        games for 
+                        <span className='Games-footer-heading-android'> Android  </span>
+                        <span className='Games-footer-heading-and'> and  </span>
+                        <span className='Games-footer-heading-ios'> IOS</span>.
+                        All games can be <span className='Games-footer-heading-found'> found </span>
+                         in the Play <span className='Games-footer-heading-market'> Market </span> 
+                         or 
+                         <span className='Games-footer-heading-appstore'> Appstore</span>. 
+                     </h3>
+                </div>
+
             
             </div>
 

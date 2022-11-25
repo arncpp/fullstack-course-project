@@ -1,12 +1,9 @@
 
 .Games {
     position: relative;
-    /* display: flex; */
-    /* justify-content: center; */
-    padding-top: 20px;
+    padding-top: 0px;
     padding-bottom: 59px;
     min-height: 3970px;
-    /* min-width: 910;; */
 }
 
 .Games-header-content{
@@ -23,6 +20,8 @@
 }
 
 
+/* Steps */
+
 .Games-store-steps {
     display: grid;
     grid-template-columns: repeat(auto-fit, 400px);
@@ -32,7 +31,7 @@
 }
 
 .step {
-    padding-top: 158px;
+    padding-top: 110px;
     max-width: 400px;
 }
 
@@ -53,4 +52,57 @@
     justify-content: center;
     align-items: center;
     color: #FFFFFF;
+}
+
+ /* Footer */
+
+.Games-footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    height: 677px;
+    line-height: 79px;
+    color: #FFFFFF;
+    font-size: 64px;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.Games-footer-heading-we {
+    font-weight: 600;
+    color: #103ACE;
+}
+
+.Games-footer-heading-make {
+    font-weight: 300;
+}
+
+.Games-footer-heading-android {
+    font-weight: 600;
+    color: #FA1572; 
+}
+
+.Games-footer-heading-and {
+    font-weight: 100;
+}
+
+.Games-footer-heading-ios {
+    font-style: italic;
+    font-weight: 900;
+}
+
+.Games-footer-heading-found {
+    font-style: italic;
+    font-weight: 400;
+}
+
+.Games-footer-heading-market {
+    color: #FD782C;
+}
+
+.Games-footer-heading-appstore {
+    color: #7B15F5;
 }

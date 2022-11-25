@@ -1,0 +1,52 @@
+.Footer {
+    padding-top: 45px;
+    padding-bottom: 99px;
+    background-color: #151215;
+    min-height: 300px;
+}
+
+.Footer-logo {
+    width: 283px;
+    height: 95px;
+}
+
+.Footer-navigation {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    color: #9F9F9F;
+    text-decoration: none;
+}
+
+.Footer-navigation ul {
+    display: inline;
+}
+
+.Footer-navigation li:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+.Footer-menu {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 39px;
+}
+
+
+
+.Footer-social-networks {
+    margin-top: -170px;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    color: #9F9F9F;
+    text-decoration: none;
+}
+
+.Footer-social-networks ul {
+    display: flex;
+}
+
+.Footer-social-networks li:not(:last-child) {
+    margin-right: 53px;
+}

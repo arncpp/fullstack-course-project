@@ -7,6 +7,9 @@ import './fonts/Caros/stylesheet.css'
 import Header from './Header'
 import Home from './Home'
 import Games from './Games'
+import Developers from './Developers'
+import ContactUs from './ContactUs'
+import Footer from './Footer'
 
 import reportWebVitals from './reportWebVitals';
 
@@ -16,6 +19,9 @@ root.render(
     <Header />
     <Home />
     <Games />
+    <Developers />
+    <ContactUs />
+    <Footer />
   </React.StrictMode>
 );
 

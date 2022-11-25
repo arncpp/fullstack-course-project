@@ -1,0 +1,135 @@
+.Developers {
+    position: relative;
+    padding-top: 0px;
+    min-height: 1940px;
+}
+
+.Developers-header-content{
+    display: flex;
+    justify-content: center;
+    line-height: 79px;
+    color: #FFFFFF;
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.developer-step, a.developer-step {
+    margin-top: 39px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 150px;
+    width: 370px;
+
+
+    background-color: #363636;
+    color: #838383;
+    font-size: 36px;
+    font-weight: 500;
+    border-radius: 75px;
+}
+
+.developer-position {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+}
+
+.position {
+    font-size: 24px;
+    font-weight: 300;
+    align-items: center;
+}
+
+.developer-img {
+    display: flex;
+    width: 121px;
+    height: 121px;
+    margin-right: 10px;
+
+    border-radius: 100px;
+}
+
+.Developers-list-steps {
+    padding-top: 60px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 405px);
+    column-gap: 20px;
+    row-gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.developer-step {
+    max-width: 405px;
+}
+
+/* Footer */
+
+.Developers-footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 300px;
+    padding-left: 200px;
+    padding-right: 200px;
+    height: 770px;
+    line-height: 79px;
+    color: #FFFFFF;
+    font-size: 64px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.Developers-footer-heading-chester {
+    color: #103ACE;
+}
+
+.Developers-footer-heading-team-appreciate {
+    font-weight: 300;
+}
+
+.Developers-footer-heading-small {
+    font-weight: 700;
+}
+
+.Developers-footer-heading-friendly {
+    color: #A52DE7;
+    font-weight: 500;
+}
+
+.Developers-footer-games {
+    font-weight: 500;
+    color: #00C2DE;
+}
+
+.Developers-footer-love {
+    font-weight: 500;
+    color: #FA1572;
+}
+
+.Developers-footer-you {
+    font-weight: 900;
+}
+
+.Developers-footer-and {
+    font-weight: 100;
+}
+
+.Developers-footer-pleasure {
+    font-weight: 500;
+    color: #FD782C;
+}
+
+.Developers-footer-Chester {
+    font-style: italic;
+    font-weight: 400;
+}
+
+.Developers-footer-Team {
+    color: #7B15F5;
+}
